@@ -38,7 +38,7 @@
 🌐 Find me on the web:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tien-nguyen-blockchain/)
-[![Personal Website](https://img.shields.io/badge/Personal_Website--<COLOR>?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://tienbss.netlify.app/)
+[![Personal Website](https://img.shields.io/badge/Personal_Website<COLOR>?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://tienbss.netlify.app/)
 
 
 
