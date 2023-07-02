@@ -20,14 +20,6 @@
 
 📫 Feel free to reach out to me via BSS@lamar.edu or my personal email Tnguyen83@lamar.edu or connect with me on LinkedIn if you have any questions, collaboration opportunities, or just want to chat!
 
-## Projects
-
-🚀 Check out some of my notable projects:
-
-- [Project 1]
-- [Project 2]
-- [Project 3]
-- [Project 4]
 
 ## Skills
 
@@ -45,12 +37,12 @@
 
 🌐 Find me on the web:
 
-- https://tienbss.netlify.app/
-- 
-
-![github](instagram)<a href="https://tienbss.netlify.app/">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tien-nguyen-blockchain/)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-Your_Website_URL-<COLOR>?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://tienbss.netlify.app/)
 
 
 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+
+
+
