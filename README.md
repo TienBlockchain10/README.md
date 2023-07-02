@@ -46,13 +46,11 @@
 🌐 Find me on the web:
 
 - https://tienbss.netlify.app/
-- [LinkedIn]
-- [Twitter]
-
+- 
 
 ![github](instagram)<a href="https://tienbss.netlify.app/">
 
 
 
 
-
+![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)
