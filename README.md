@@ -20,7 +20,6 @@
 
 📫 Feel free to reach out to me via BSS@lamar.edu or my personal email Tnguyen83@lamar.edu or connect with me on LinkedIn if you have any questions, collaboration opportunities, or just want to chat!
 
-
 ## Skills
 
 💪 Here are some of the skills and technologies I specialize in:
@@ -39,6 +38,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tien-nguyen-blockchain/)
 [![Personal Website](https://img.shields.io/badge/Personal_Website-<COLOR>?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://tienbss.netlify.app/)
+
+## Change my look!
+
+Test out my AI image generation app here!
+
+[![AI App](https://img.shields.io/badge/AI_App-Your_App_Name-<COLOR>?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.your-app-url.com)
+
 
 
 
