@@ -48,11 +48,9 @@
 - https://tienbss.netlify.app/
 - [LinkedIn]
 - [Twitter]
-- [GitHub]
 
-<a href="https://example.com/button-link"><img src="https://example.com/button-image.png" alt="Button Name"></a>
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)<a href="https://example.com/button-link">
+![github](instagram)<a href="https://tienbss.netlify.app/">
 
 
 
