@@ -39,11 +39,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tien-nguyen-blockchain/)
 [![Personal Website](https://img.shields.io/badge/Personal_Website-<COLOR>?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://tienbss.netlify.app/)
 
-## Change my look!
+## Change my look! 🖼️
 
 Test out my AI image generation app here!
 
-[![AI App](https://img.shields.io/badge/AI_App-<COLOR>?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.your-app-url.com)
+[![TBA](https://img.shields.io/badge/AI_App-<COLOR>?style=for-the-badge&logo=TensorFlow&logoColor=white)](https:.com)
 
 
 
