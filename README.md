@@ -43,7 +43,7 @@
 
 Test out my AI image generation app here!
 
-[![TBA](https://img.shields.io/badge/AI_App-<COLOR>?style=for-the-badge&logo=TensorFlow&logoColor=white)](https:.com)
+[![AI App](https://img.shields.io/badge/TBA-<COLOR>?style=for-the-badge&logo=TensorFlow&logoColor=white)](https:.com)
 
 
 
