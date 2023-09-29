@@ -43,7 +43,7 @@
 
 Test out my Donation Management system app here!
 
-[![AI App](https://img.shields.io/badge/TBA-<COLOR>?style=for-the-badge&logo=TensorFlow&logoColor=white)](donation-system-dapp.vercel.app)
+[![AI App](https://img.shields.io/badge/TBA-<COLOR>?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://donation-system-dapp.vercel.app/)
 
 
 
