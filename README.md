@@ -39,11 +39,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tien-nguyen-blockchain/)
 [![Personal Website](https://img.shields.io/badge/Personal_Website-<COLOR>?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://tienbss.netlify.app/)
 
-## Change my look! 🖼️
+## Donation Management System prototype! 🖼️
 
-Test out my AI image generation app here!
+Test out my Donation Management system app here!
 
-[![AI App](https://img.shields.io/badge/TBA-<COLOR>?style=for-the-badge&logo=TensorFlow&logoColor=white)](https:.com)
+[![AI App](https://img.shields.io/badge/TBA-<COLOR>?style=for-the-badge&logo=TensorFlow&logoColor=white)](donation-system-dapp.vercel.app)
 
 
 
