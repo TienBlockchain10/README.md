@@ -29,6 +29,7 @@
 - Smart Contracts (Hardhat, Quicknode, etc.)
 - Analytical Research (Two previous internships as a researcher)
 - Community Building/Leading (Co-Founder of Blockchain Student Society)
+- Generative AI (Built and trained my own stable diffusion model)
 
 ## Contributions
 
