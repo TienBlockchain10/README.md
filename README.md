@@ -15,6 +15,8 @@
 - EVM Equivalent Chains
 - Layer 2s and 3s
 - Decentralized Finance (LSDfi)
+- ZK Proofs
+- Generative AI
 
 ## Contact Me
 
