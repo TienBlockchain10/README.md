@@ -12,6 +12,7 @@
 
 🌟 Some of my main interests include:
 
+- Bitcoin mining / Development
 - EVM Equivalent Chains
 - Layer 2s and 3s
 - Decentralized Finance (LSDfi)
