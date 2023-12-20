@@ -27,6 +27,7 @@
 
 💪 Here are some of the skills and technologies I specialize in:
 
+- Asic Bitcoin Mining (S19 Pro Antminer setup, maintenance, and repair)
 - Smart Contracts (Hardhat, Quicknode, etc.)
 - Analytical Research (Two previous internships as a researcher)
 - Community Building/Leading (Co-Founder of Blockchain Student Society)
