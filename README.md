@@ -48,7 +48,7 @@
 
 Test out my Donation Management system app here!
 
-[![AI App](https://img.shields.io/badge/Try it Out!-<COLOR>?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://charityblock.vercel.app/)
+[![AI App](https://img.shields.io/badge/TryitOut!-<COLOR>?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://charityblock.vercel.app/)
 
 
 
